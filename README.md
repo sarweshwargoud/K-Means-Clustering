@@ -1,4 +1,4 @@
-# Task 8 – K-Means Clustering
+# K-Means Clustering
 
 ## Overview
 This project applies **K-Means clustering** to the **Mall Customers** dataset to segment customers into groups based on their annual income and spending score.  
